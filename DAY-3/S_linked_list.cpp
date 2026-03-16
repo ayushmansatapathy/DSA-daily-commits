@@ -28,7 +28,7 @@ int main()
     n4->next = n5;
 
     n5->data = 'e';
-    n5->next = n1;   // circular link
+    n5->next = nullptr;
 
     node *temp = n1;
     node *start = temp;
