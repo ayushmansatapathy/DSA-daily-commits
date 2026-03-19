@@ -41,5 +41,4 @@ int main()
         temp = temp->prev;
     }
 
-    return 0;
 }
