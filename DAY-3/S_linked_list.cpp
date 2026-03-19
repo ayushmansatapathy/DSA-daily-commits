@@ -39,5 +39,4 @@ int main()
         temp = temp->next;
     } while (temp != start);
 
-    return 0;
 }
